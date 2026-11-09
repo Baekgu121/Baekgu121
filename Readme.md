@@ -20,15 +20,4 @@
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=FFFFFF" alt="C Sharp">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" alt="C Plus Plus">
 
-## 📞 소셜미디어 링크 📞
-
-<!-- YOUR_ID를 실제 Instagram 아이디로 바꿔주세요. -->
-<a href="https://www.instagram.com/k_minjae12/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"></a>
-<a href="mailto:kbckmj2050@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"></a>
-
 <br><br>
-
-## 📊 GitHub 활동
-
-<img src="https://github-readme-stats.vercel.app/api?username=kminjae121&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kminjae121&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages">
